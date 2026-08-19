@@ -1,6 +1,10 @@
 # 🌸 Digital Wisteria Labs — Brand Manifesto
 
-> **A digital garden where code blooms into worlds.**
+> **Where code blooms into worlds.**
+> 
+> Digital Wisteria Labs is an indie studio building software, 
+> games, and digital experiences with the patience of 
+> a gardener and the precision of an engineer.
 
 ---
 
