@@ -106,7 +106,7 @@ For licensing inquiries or collaboration proposals, contact us via the channels 
 | Platform | Handle |
 |----------|--------|
 | **GitHub** | [Digital-Wisteria-Labs](https://github.com/Digital-Wisteria-Labs) |
-| **Telegram** | [@digitalwisterialabs](https://t.me/digitalwisterialabs) |
+| **Telegram** | [@digitalwisterialabs](https://t.me/+mZt3jQ2Hu00yMDY6) |
 | **Twitter/X** | [@DWisteriaLabs](https://twitter.com/DWisteriaLabs) |
 | **itch.io** | [digitalwisterialabs](https://digitalwisterialabs.itch.io) |
 | **Website** | [digitalwisterialabs.com](https://digitalwisterialabs.com) (coming soon) |
@@ -211,7 +211,7 @@ For licensing inquiries or collaboration proposals, contact us via the channels 
 | Платформа | Аккаунт |
 |-----------|---------|
 | **GitHub** | [Digital-Wisteria-Labs](https://github.com/Digital-Wisteria-Labs) |
-| **Telegram** | [@digitalwisterialabs](https://t.me/digitalwisterialabs) |
+| **Telegram** | [@digitalwisterialabs](https://t.me/+mZt3jQ2Hu00yMDY6) |
 | **Twitter/X** | [@DWisteriaLabs](https://twitter.com/DWisteriaLabs) |
 | **itch.io** | [digitalwisterialabs](https://digitalwisterialabs.itch.io) |
 | **Сайт** | [digitalwisterialabs.com](https://digitalwisterialabs.com) (скоро) |
